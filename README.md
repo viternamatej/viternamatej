@@ -18,8 +18,3 @@ Jsem student 1. ročníku IT, kterého nejvíce baví **programování** a **tvo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### 📊 Moje GitHub statistiky
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viternamatej&layout=compact&theme=tokyonight)
