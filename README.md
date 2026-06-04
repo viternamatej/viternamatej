@@ -22,4 +22,4 @@ Jsem student 1. ročníku IT, kterého nejvíce baví **programování** a **tvo
 
 ### 📊 Moje GitHub statistiky
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viternamatej&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viternamatej&layout=compact&theme=tokyonight)
